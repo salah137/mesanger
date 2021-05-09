@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
               "https://steamuserimages-a.akamaihd.net/ugc/940586530515504757/CDDE77CB810474E1C07B945E40AE4713141AFD76/"),
         ),
       ),
-      body: ListView(
+      body: Column(
         children: [
           Container(
             margin: EdgeInsets.all(20),
